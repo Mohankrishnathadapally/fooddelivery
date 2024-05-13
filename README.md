@@ -4,4 +4,9 @@
     React + vite
 👉Live Demo: https://food-delivery-m055.netlify.app/
 
+![home](https://github.com/Mohankrishnathadapally/fooddelivery/raw/main/home.png)
+![menu](https://github.com/Mohankrishnathadapally/fooddelivery/raw/main/menu.png)
 ![Dishes](https://github.com/Mohankrishnathadapally/fooddelivery/raw/main/dishs.png)
+![footer](https://github.com/Mohankrishnathadapally/fooddelivery/raw/main/footer.png)
+![cart](https://github.com/Mohankrishnathadapally/fooddelivery/raw/main/cart.png)
+![placeorder](https://github.com/Mohankrishnathadapally/fooddelivery/raw/main/placeorder.png)
