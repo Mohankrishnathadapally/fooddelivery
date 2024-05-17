@@ -5,11 +5,11 @@
 # Installation
   #### Open your terminal and run the following command to create a new Vite project with React:
         npm create vite@latest
-## Navigate to the Project Directory:
+#### Navigate to the Project Directory:
     cd fooddelivery
-## Install Dependencies:
+#### Install Dependencies:
     npm install
-## Start the Development Server:
+#### Start the Development Server:
     npm run dev
 
 👉Live Demo: https://food-delivery-m055.netlify.app/
