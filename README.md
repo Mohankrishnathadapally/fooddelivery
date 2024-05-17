@@ -3,7 +3,7 @@
 # Build with:
     React + vite
 # Installation
-  # Open your terminal and run the following command to create a new Vite project with React:
+  #### Open your terminal and run the following command to create a new Vite project with React:
         npm create vite@latest
 ## Navigate to the Project Directory:
     cd your-project-name
