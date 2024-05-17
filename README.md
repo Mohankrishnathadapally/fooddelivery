@@ -6,7 +6,7 @@
   #### Open your terminal and run the following command to create a new Vite project with React:
         npm create vite@latest
 ## Navigate to the Project Directory:
-    cd your-project-name
+    cd fooddelivery
 ## Install Dependencies:
     npm install
 ## Start the Development Server:
